@@ -1,0 +1,11 @@
+resume-parser-classifier/
+├── parser/
+│   ├── extract.py
+│   ├── classify.py
+│   └── utils.py
+├── data/
+│   ├── sample_resumes/
+│   └── labeled_dataset.csv
+├── model/
+│   └── resume_classifier.pkl
+├── README.md
